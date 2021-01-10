@@ -87,9 +87,8 @@
     </dependencies>
 
     <modules>
-<!--        <module>starter</module>-->
-<!--        <module>app</module>-->
         <module>starter</module>
+        <module>demofeatures</module>
     </modules>
 
 </project>
